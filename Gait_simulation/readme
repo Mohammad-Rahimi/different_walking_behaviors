@@ -1,1 +1,4 @@
 the code is uploaded with the needed intial guess and tracking references to run a simulation
+open the code named: walk_speed_stepLengthAsym_stepwidth.m
+first few lines you will determine the name of the initial guess, tracking file and solution file
+the next section named option and settings is for assiginig different values for the average speed, step length asymmetry and step width and needed cost term weights
